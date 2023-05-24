@@ -13,6 +13,8 @@ display: flex;
 align-items: center;
 justify-content: space-between;
 color: #FF0101;
+font-family: 'Lobster', cursive;
+font-family: 'Montserrat', sans-serif;
 }
 
 .titulo-corpo{
