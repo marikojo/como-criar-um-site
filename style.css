@@ -9,4 +9,35 @@
         display: flex;
         justify-content: center;
     }
-    
+    .div-imagem-p1{
+        display: flex;
+        align-items: center;
+        text-align: center;
+        font-size: 25px;
+        justify-content: space-around;
+    }
+    .body{
+        margin: 0%;
+        padding: 0%;
+    }
+    .header{
+        height: 250px;
+        align-items: center;
+        background-color: #ff9e9e;
+        display: flex;
+    }
+    .imagem-cabeçalho-1{
+        height: 170px;
+        left: 70px;
+        position: absolute;
+        width: 300px;
+        top: 17px;
+    }
+    .imagem-cabeçalho-2{
+        height: 170px;
+        justify-content: space-around;
+        left: 1100px;
+        position: absolute;
+        width: 300px;
+        top: 17px;
+    }
